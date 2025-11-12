@@ -1,0 +1,84 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0805e1ba-1c5b-41bb-ad18-c9e91cdd547b"
+        },
+        {
+          "SchemaColumnUId": "37988a0f-a399-8550-2f10-a057a7037a42",
+          "Value": "COD-05"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "18fb89b8-9fd2-4f9b-9dba-758db12c14fb"
+        },
+        {
+          "SchemaColumnUId": "37988a0f-a399-8550-2f10-a057a7037a42",
+          "Value": "COD-02"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7e9e7105-8c80-4434-bdce-3fc2c3888405"
+        },
+        {
+          "SchemaColumnUId": "37988a0f-a399-8550-2f10-a057a7037a42",
+          "Value": "COD-03"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "81d9e4fd-adb8-4e12-aca2-a0845fda800d"
+        },
+        {
+          "SchemaColumnUId": "37988a0f-a399-8550-2f10-a057a7037a42",
+          "Value": "COD-04"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ce745750-4e8b-4f5e-94a0-646602710d0a"
+        },
+        {
+          "SchemaColumnUId": "37988a0f-a399-8550-2f10-a057a7037a42",
+          "Value": "COD-01"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}
