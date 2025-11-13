@@ -5,6 +5,10 @@
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "1e7d1ca5-60e0-4e2c-8f8b-fdc6b11db9e0"
+        },
+        {
+          "SchemaColumnUId": "079f73cb-09a5-d368-ec04-474c7fb0d206",
+          "Value": 50.00
         }
       ]
     },
@@ -13,6 +17,10 @@
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "c3352279-cc68-4c20-932d-4130bec5f197"
+        },
+        {
+          "SchemaColumnUId": "079f73cb-09a5-d368-ec04-474c7fb0d206",
+          "Value": 2.00
         }
       ]
     }

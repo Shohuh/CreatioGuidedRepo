@@ -1,0 +1,28 @@
+= MetaData.Schema.UId "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.A2 "UsrRealtyVisitFreedomUIPage"
+= MetaData.Schema.A5 "59450717-d038-4a2f-989f-eaadd605d33e"
++ MetaData.Schema.B2 {
+  "UId": "7d9cfb9f-2210-2f65-9694-17bf9b983d41",
+  "A2": "addRecord_kpnl7nu_caption",
+  "A3": "ee1d269d-5c54-422a-9654-b2e0dcdf159a",
+  "A4": "ee1d269d-5c54-422a-9654-b2e0dcdf159a",
+  "A5": "59450717-d038-4a2f-989f-eaadd605d33e"
+}
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+= MetaData.Schema.B2.["7ef16282-5424-f01b-7256-9b04a007dc3b"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["7ef16282-5424-f01b-7256-9b04a007dc3b"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A4 "ee1d269d-5c54-422a-9654-b2e0dcdf159a"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "59450717-d038-4a2f-989f-eaadd605d33e"
+~ MetaData.Schema.B2 ["7d9cfb9f-2210-2f65-9694-17bf9b983d41","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","7ef16282-5424-f01b-7256-9b04a007dc3b","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8"]
+= MetaData.Schema.B6 "476961e8-e1ef-48a1-a4e6-1fef3bb71d0f"
+= MetaData.Schema.B8 "8.0.9.1582"
+= MetaData.Schema.HD1 "ecdcc8ff-272c-4957-9381-7d74ce17e140"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
